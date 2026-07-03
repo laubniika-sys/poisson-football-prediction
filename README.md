@@ -67,3 +67,13 @@ The model estimates expected goals for both teams and calculates the probabiliti
 - pandas
 - numpy
 - Jupyter Notebook
+
+## Example Output
+
+For the match Liverpool vs Aston Villa, the model estimates:
+
+| Outcome | Probability | Fair Odd |
+|---|---:|---:|
+| Home Win | 66.7% | 1.50 |
+| Draw | 20.7% | 4.83 |
+| Away Win | 12.1% | 8.26 |
