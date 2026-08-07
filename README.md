@@ -89,5 +89,4 @@ For the match Liverpool vs Aston Villa, the model estimates:
 | Away Win | 12.1% | 8.26 |
 =======
 ```text
-poisson_football_dashboard.pbix
->>>>>>> 24eff06 (update folders and add power bi dashboard)
+
