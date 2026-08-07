@@ -87,8 +87,6 @@ For the match Liverpool vs Aston Villa, the model estimates:
 | Home Win | 66.7% | 1.50 |
 | Draw | 20.7% | 4.83 |
 | Away Win | 12.1% | 8.26 |
-=======
-```text
 
 <img width="1315" height="737" alt="{84C41B7D-5DE3-4EB1-A166-771F06B6A6CE}" src="https://github.com/user-attachments/assets/ce629dd5-0f2b-4083-ac97-572c01d26896" />
 
